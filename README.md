@@ -53,7 +53,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](link). É necess
 <br>
 <br>
 
-##  Licença
+##  🔒 Licença
 
 Esse projeto está sob a licença MIT.
 
