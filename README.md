@@ -6,10 +6,8 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   [Tecnologias](#tecnologias)
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  [Preview](#preview)
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   [Layout](#layout)
-    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   [Licença](#license)
 
 </div>
@@ -42,6 +40,15 @@ Detalhes do projeto.
 - Tech 1
 - Tech 2
 - Tech 3
+
+<br>
+<br>
+
+## 🧠 Aprendizado <a name = "aprendizado"></a>
+
+Tudo o que eu estou aprendendo durante esse projeto estou documentando aqui neste aquivo:
+
+- [Nome](./pasta/DOC.md)
 
 <br>
 <br>
